@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @farrozzz
-- 👀 I’m interested in Software Embedded , Machine Learning, and Research & Development Staff
+- 👀 I’m interested in Software Embedded , Machine Learning, and Research & Development
 - 🌱 I’m currently learning Electronics Engineering
 - 💞️ I’m looking to collaborate on Research & Development in Any field
 - 📫 How to reach me, you can contact me to zain.farros@gmail.com
